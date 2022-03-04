@@ -14,8 +14,8 @@ function Button(Project) {
 
 <div align="center">
 
-<img src="Projeto/img/readme1.png" alt="Botões Laranjas no CSS" width="800"/>
-<img src="Projeto/img/readme2.png" alt="Botões Laranjas no CSS" width="800"/>
+<img src="Projeto/img/readme1.png" alt="Botões Laranjas no CSS" width="400"/>
+<img src="Projeto/img/readme2.png" alt="Botões Laranjas no CSS" width="400"/>
 
 </div>
 
